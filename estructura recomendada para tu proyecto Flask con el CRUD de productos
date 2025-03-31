@@ -1,0 +1,11 @@
+/tu_proyecto_flask  
+│── /static  # Archivos CSS, JS, imágenes  
+│── /templates  # Plantillas HTML  
+│   ├── base.html  
+│   ├── index.html  # Lista de productos  
+│   ├── formulario.html  # Formulario para crear/editar productos  
+│── /conexion  
+│   ├── conexion.py  # Conexión a MySQL  
+│── app.py  # Archivo principal  
+│── requirements.txt  # Dependencias del proyecto  
+│── script.sql  # Script para crear la base de datos y la tabla  
